@@ -1,0 +1,34 @@
+Backspace Innovation Privacy Policy 
+for
+Nishan Bhattarai
+
+
+Last Updated: August 31, 2017 04:10 PM GMT+5:45 
+
+Your privacy is important to Backspace Innovation. This privacy policy (“Privacy Policy”) applies to the Backspace Innovation Nishan Bhattarai  mobile applications and explains how personal information is collected, used, disclosed, and protected by Backspace Innovation.. 
+
+Changes to This Privacy Policy
+We may change this Privacy Policy from time to time. If we make any changes to this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Backspace Innovation website or Github Repo. Those changes will go into effect on the “last updated” date shown in the revised Privacy Policy. You consent to the revised Privacy Policy by continuing to use thisServices. We encourage you to check this Privacy Policy whenever you use thisServices to understand how your personal information is used. 
+
+What Does This Privacy Policy Cover? 
+In your dealings with thisyou may provide us with Device Permission for personal access i.e SMS Permission. SMS Permission for the purposes of this Privacy Policy means used for accessing features related to the User's messaging including the sending, receiving and reading of SMS. This Privacy Policy does not apply to the practices of entities that we do not own or control, or to individuals that we do not employ or manage. 
+More generally, we think of our privacy policy as a feature and hope that you’ll agree.  
+
+
+What data do we collect?
+thishelps you to send your message directly without opening your Default SMS app. It’s an android platform to vote your Nepal Idol contestant from mobile apps.
+In order to provide this service we access SMS Permission to send the SMS.We use this service to provide the thisservice.
+thisis an Android service, which means that it’s running and access permission from the moment it’s first started until it’s uninstalled from your device.
+
+Android Permissions
+We request the following android permissions for the following reasons:
+android.permission.WAKE_LOCK. Needed to prevent the app from sleep
+android.permission.RECEIVE_BOOT_COMPLETED. Needed to notify the app after reboot
+android.permission.RECEIVE_SMS. Needed to send SMS
+android.permission.INTERNET. To access internet
+android.permission.ACCESS_NETWORK_STATE To get Network state
+Enforcement 
+If you have any questions about this Privacy Policy, you should first contact us at backspaceInnovation@gmail.com
+
+Contacting Us 
+Any questions about this Privacy Policy should be addressed to backspaceInnovation@gmail.com
